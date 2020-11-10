@@ -29,6 +29,24 @@ export class HomePage implements OnInit {
       name:'Contact',
       redirectTo: '/alert'
     },
+    {
+      icon:'bag',
+      name:'Avatar',
+      redirectTo: '/avatar'
+    },
+    {
+      icon:'home',
+      name:'Buttons',
+      redirectTo: '/buttons'
+    },
+    {
+      icon:'card',
+      name:'Cards',
+      redirectTo: '/cards'
+    },
+    
+
+
   ]
  
   constructor() { }
