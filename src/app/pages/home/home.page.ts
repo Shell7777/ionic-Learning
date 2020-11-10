@@ -44,7 +44,11 @@ export class HomePage implements OnInit {
       name:'Cards',
       redirectTo: '/cards'
     },
-    
+    {
+      icon:'cafe',
+      name:'Segement',
+      redirectTo: '/segment'
+    },
 
 
   ]
